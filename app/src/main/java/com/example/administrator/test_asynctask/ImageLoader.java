@@ -33,7 +33,7 @@ public class ImageLoader extends AppCompatActivity {
     private ProgressBar mProgressBar;
     private static String URL
             ="https://gss1.bdstatic.com/5eN1dDebRNRTm2_p8IuM_a/res/r/image/2016-08-16/3a2c7a2b2edb77eadd10a0d0ea4a2e4d.png";
-//    private Context mContext;
+
 
     private void init() {
         mImageView = (ImageView) findViewById(R.id.imageView);
